@@ -1,5 +1,5 @@
 id=617
-Office Wall Vert
+Office Wall Vert Left
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -27,7 +27,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=2
 spriteID=992
-pos=-27.000000,123.000000
+pos=50.000000,-2.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -35,7 +35,7 @@ ageRange=-1.000000,-1.000000
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=993
-pos=3.000000,124.000000
+pos=80.000000,126.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -49,4 +49,4 @@ frontFootIndex=-1
 numUses=0
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=325
+pixHeight=327

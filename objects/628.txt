@@ -1,8 +1,8 @@
-id=620
-Office Door
+id=628
+Office Wall Vert Right
 containable=0
 containSize=1,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -26,16 +26,16 @@ creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=2
-spriteID=1005
-pos=-7.000000,-68.000000
+spriteID=992
+pos=-94.000000,127.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=1002
-pos=7.000000,6.000000
+spriteID=993
+pos=-64.000000,128.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -46,7 +46,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1
+numUses=0
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=78
+pixHeight=329
