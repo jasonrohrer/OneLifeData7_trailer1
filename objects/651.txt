@@ -1,5 +1,5 @@
-id=629
-Road
+id=651
+Road 2 Placeholder
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -26,8 +26,8 @@ creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=1058
-pos=66.000000,-3.000000
+spriteID=1126
+pos=2.000000,0.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -38,7 +38,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=0
+numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=79
+pixHeight=4
