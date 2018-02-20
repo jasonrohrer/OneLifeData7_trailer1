@@ -1,6 +1,9 @@
 id=630
 type=2,randStartPhase=0
-numSounds=0
+forceZeroStart=0
+numSounds=2
+soundParam=904:0.250000#907:0.250000#908:0.250000 6.000000 0.000000 -1.000000 -1.000000 0
+soundParam=906:0.250000#909:0.250000#910:0.250000 6.000000 0.500000 -1.000000 -1.000000 0
 numSprites=13
 numSlots=0
 offset=(0.000000,0.000000)

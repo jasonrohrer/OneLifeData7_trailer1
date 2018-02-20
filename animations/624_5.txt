@@ -1,5 +1,6 @@
 id=624
 type=5,randStartPhase=0
+forceZeroStart=0
 numSounds=0
 numSprites=48
 numSlots=0

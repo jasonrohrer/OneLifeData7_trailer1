@@ -1,6 +1,10 @@
 id=632
 type=2,randStartPhase=0
-numSounds=0
+forceZeroStart=0
+numSounds=3
+soundParam=878:0.066667 2.000000 0.000000 -1.000000 -1.000000 0
+soundParam=879:0.058333 2.000000 0.833333 -1.000000 -1.000000 0
+soundParam=878:0.066667 2.000000 0.500000 -1.000000 -1.000000 0
 numSprites=21
 numSlots=0
 offset=(0.000000,0.000000)

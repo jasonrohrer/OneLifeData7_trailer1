@@ -1,5 +1,6 @@
 id=632
 type=1,randStartPhase=0
+forceZeroStart=0
 numSounds=0
 numSprites=21
 numSlots=0
