@@ -32,7 +32,7 @@ rot=0.500000
 hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=3
+parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=71
 pos=-130.000000,0.000000
@@ -40,7 +40,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=3
+parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=74
 pos=-131.000000,2.000000
@@ -48,7 +48,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=3
+parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1122
 pos=-129.000000,74.000000
