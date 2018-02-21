@@ -1,4 +1,4 @@
-w=130
+w=230
 h=90
 origin=19,49
 floorPresent
