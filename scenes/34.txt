@@ -9368,7 +9368,7 @@ empty
 empty
 empty
 x=51,y=48
-biome=1
+biome=2
 empty
 empty
 empty
